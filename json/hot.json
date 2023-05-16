@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Game 1",
+        "slug": "tomb",
+        "img": "/class/tomb/logo.png"
+    },{
+        "title": "Game 2",
+        "slug": "short-ride",
+        "img": "/assets/logo/short-ride.png"
+    },{
+        "title": "Game 3",
+        "slug": "short-life-2",
+        "img": "/assets/logo/short-life-2.png"
+    },{
+        "title": "Game 4",
+        "slug": "super-tunnel-rush",
+        "img": "/assets/logo/super-tunnel-rush.png"
+    }
+
+]
