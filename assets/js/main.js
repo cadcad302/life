@@ -445,3 +445,19 @@ function toggleTheme() {
     }
 }
 )();
+function loadGA(){
+    
+    var  r = document.createElement("script");
+  r.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id=G-VDZ4RQ4RXR"), r.setAttribute("type", "text/javascript"), r.setAttribute("crossOrigin", "anonymous"),  r.onload = function (){
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+  
+      gtag('config', 'G-VDZ4RQ4RXR');
+  
+    },document.head.appendChild(r);
+    
+}
+window.addEventListener('load', function() {
+    loadGA()
+});
