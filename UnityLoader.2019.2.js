@@ -3436,7 +3436,7 @@ var UnityLoader = UnityLoader || {
         }
         // UnityLoader.scheduleBuildDownloadJob(e, "downloadData", "dataUrl"),
         console.log(e.totalFile);
-        if(e.hasOwnProperty(e.totalFile)){
+        if(e.hasOwnProperty("totalFile")){
             UnityLoader.scheduleBuildDownloadJobMulti(e, "downloadData","dataUrl");
         } else {
             UnityLoader.scheduleBuildDownloadJob(e, "downloadData", "dataUrl");
