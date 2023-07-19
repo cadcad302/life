@@ -3435,7 +3435,8 @@ var UnityLoader = UnityLoader || {
             UnityLoader.Job.schedule(e, "processAsmFramework", ["downloadAsmFramework", "processAsmCode", "setupIndexedDB"], UnityLoader.processAsmFrameworkJob)
         }
         // UnityLoader.scheduleBuildDownloadJob(e, "downloadData", "dataUrl"),
-        if(typeof(e.totalFile) != undefined){
+        console.log(e.totalFile);
+        if(e.hasOwnProperty(totalFile)){
             UnityLoader.scheduleBuildDownloadJobMulti(e, "downloadData","dataUrl");
         } else {
             UnityLoader.scheduleBuildDownloadJob(e, "downloadData", "dataUrl");
