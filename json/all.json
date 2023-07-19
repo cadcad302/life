@@ -3,186 +3,243 @@
         "title": "BitLife Online",
         "slug": "/",
         "img": "/class/logo.png"
-    },
-    {
-        "title": "Game 1",
-        "slug": "tomb",
-        "img": "/class/tomb/logo.png",
-        "date": 11523
     },{
-        "title": "Game 2",
+        "title": "Short Ride",
         "slug": "short-ride",
         "img": "/assets/logo/short-ride.png",
+        "game": "https://bitlifeonline.github.io/class12523/short-ride/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 3",
+        "title": "Short Life 2",
         "slug": "short-life-2",
         "img": "/assets/logo/short-life-2.png",
+        "game": "https://bitlifeonline.github.io/class12523/short-life-2/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 4",
+        "title": "Super Tunnel Rush",
         "slug": "super-tunnel-rush",
         "img": "/assets/logo/super-tunnel-rush.png",
+        "game": "https://bitlifeonline.github.io/class12523/super-tunnel-rush/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 37",
-        "slug": "yohoho-io",
-        "img": "/assets/logo/yohoho-io.png",
-        "date": 16523
-    },{
-        "title": "Game 5",
+        "title": "Blumgi Ball",
         "slug": "blumgi-ball",
         "img": "/assets/logo/blumgi-ball.png",
+        "game": "https://bitlifeonline.github.io/class12523/blumgi-ball/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 6",
+        "title": "Blumgi Castle",
         "slug": "blumgi-castle",
         "img": "/assets/logo/blumgi-castle.png",
+        "game": "https://bitlifeonline.github.io/class12523/blumgi-castle/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 7",
+        "title": "blumgi Smile",
         "slug": "blumgi-slime",
         "img": "/assets/logo/blumgi-slime.png",
+        "game": "https://bitlifeonline.github.io/class12523/blumgi-slime/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 8",
+        "title": "Bow mania",
         "slug": "bow-mania",
         "img": "/assets/logo/bow-mania.png",
+        "game": "https://bitlifeonline.github.io/class12523/bow-mania/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 9",
+        "title": "Cats",
         "slug": "cats",
         "img": "/assets/logo/cats.png",
+        "game": "https://bitlifeonline.github.io/class12523/cats/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 10",
+        "title": "Crazy Pig Simulator",
         "slug": "crazy-pig-simulator",
         "img": "/assets/logo/crazy-pig-simulator.png",
+        "game": "https://bitlifeonline.github.io/class12523/crazy-pig-simulator/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 11",
+        "title": "Death Chase",
         "slug": "death-chase",
         "img": "/assets/logo/death-chase.png",
+        "game": "https://bitlifeonline.github.io/class12523/death-chase/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 12",
+        "title": "Death Chase 2",
         "slug": "death-chase-2",
         "img": "/assets/logo/death-chase-2.png",
+        "game": "https://bitlifeonline.github.io/class12523/death-chase-2/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 13",
+        "title": "Deer Simulator",
         "slug": "deer-simulator",
         "img": "/assets/logo/deer-simulator.png",
+        "game": "https://bitlifeonline.github.io/class12523/deer-simulator/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 14",
+        "title": "Dog Simulator 3D",
         "slug": "dog-simulator-3d",
         "img": "/assets/logo/dog-simulator-3d.png",
+        "game": "https://bitlifeonline.github.io/class12523/dog-simulator-3d/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 15",
+        "title": "Dragon Simulator 3D",
         "slug": "dragon-simulator-3d",
         "img": "/assets/logo/dragon-simulator-3d.png",
+        "game": "https://bitlifeonline.github.io/class12523/dragon-simulator-3d/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 16",
+        "title": "Duck Life Adventure",
         "slug": "duck-life-adventure",
         "img": "/assets/logo/duck-life-adventure.png",
+        "game": "https://bitlifeonline.github.io/class12523/duck-life-adventure/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 17",
+        "title": "Duck Life Battle",
         "slug": "duck-life-battle",
         "img": "/assets/logo/duck-life-battle.png",
+        "game": "https://bitlifeonline.github.io/class12523/duck-life-battle/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 18",
+        "title": "Eugenes Life",
         "slug": "eugenes-life",
         "img": "/assets/logo/eugenes-life.png",
+        "game": "https://bitlifeonline.github.io/class12523/eugenes-life/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 19",
+        "title": "Fox Simulator 3D",
         "slug": "fox-simulator-3d",
         "img": "/assets/logo/fox-simulator-3d.png",
+        "game": "https://bitlifeonline.github.io/class12523/fox-simulator-3d/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 20",
+        "title": "Horse 3D",
         "slug": "horse-simulator-3d",
         "img": "/assets/logo/horse-simulator-3d.png",
+        "game": "https://bitlifeonline.github.io/class12523/horse-simulator-3d/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 21",
+        "title": "Jelly Cat",
         "slug": "jelly-cat",
         "img": "/assets/logo/jelly-cat.png",
+        "game": "https://bitlifeonline.github.io/class12523/jelly-cat/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 22",
+        "title": "Life the Game",
         "slug": "life-the-game",
         "img": "/assets/logo/life-the-game.png",
+        "game": "https://bitlifeonline.github.io/class12523/life-the-game/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 23",
+        "title": "Life the Game Stay Safe",
         "slug": "life-the-game-stay-safe",
         "img": "/assets/logo/life-the-game-stay-safe.png",
+        "game": "https://bitlifeonline.github.io/class12523/life-the-game-stay-safe/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 25",
+        "title": "Lucky Life",
         "slug": "lucky-life",
         "img": "/assets/logo/lucky-life.png",
+        "game": "https://bitlifeonline.github.io/class12523/lucky-life/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 26",
+        "title": "Panda 3D",
         "slug": "panda-simulator-3d",
         "img": "/assets/logo/panda-simulator-3d.png",
+        "game": "https://bitlifeonline.github.io/class12523/panda-simulator-3d/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 27",
+        "title": "Parkour Jump",
         "slug": "parkour-jump",
         "img": "/assets/logo/parkour-jump.png",
+        "game": "https://bitlifeonline.github.io/class12523/parkour-jump/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 28",
+        "title": "Raccoon 3D",
         "slug": "raccoon-adventure-city-simulator-3d",
         "img": "/assets/logo/raccoon-adventure-city-simulator-3d.png",
+        "game": "https://bitlifeonline.github.io/class12523/raccoon-adventure-city-simulator-3d/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 29",
+        "title": "Rio Rex",
         "slug": "rio-rex",
         "img": "/assets/logo/rio-rex.png",
+        "game": "https://bitlifeonline.github.io/class12523/rio-rex/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 30",
+        "title": "sharkosaurus",
         "slug": "sharkosaurus-rampage",
         "img": "/assets/logo/sharkosaurus-rampage.png",
+        "game": "https://bitlifeonline.github.io/class12523/sharkosaurus-rampage/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 31",
+        "title": "Short Life",
         "slug": "short-life",
         "img": "/assets/logo/short-life.png",
+        "game": "https://bitlifeonline.github.io/class12523/short-life/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 32",
+        "title": "Short Life 2",
         "slug": "short-life-2",
         "img": "/assets/logo/short-life-2.png",
+        "game": "https://bitlifeonline.github.io/class12523/short-life-2/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 33",
+        "title": "Swingo",
         "slug": "swingo",
         "img": "/assets/logo/swingo.png",
+        "game": "https://bitlifeonline.github.io/class12523/swingo/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 34",
+        "title": "Tiger 3D",
         "slug": "tiger-simulator-3d",
         "img": "/assets/logo/tiger-simulator-3d.png",
+        "game": "https://bitlifeonline.github.io/class12523/tiger-simulator-3d/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 35",
+        "title": "War of Sticks",
         "slug": "war-of-sticks",
         "img": "/assets/logo/war-of-sticks.png",
+        "game": "https://bitlifeonline.github.io/class12523/war-of-sicks/",
+        "domain": 20,
         "date": 12523
     },{
-        "title": "Game 36",
+        "title": "DreadHead Parkour",
         "slug": "dreadhead-parkour",
         "img": "/assets/logo/dreadhead-parkour.png",
+        "game": "https://bitlifeonline.github.io/class12523/dreadhead-parkour/",
+        "domain": 20,
         "date": 12523
     }
 
