@@ -459,5 +459,5 @@ function loadGA(){
     
 }
 window.addEventListener('load', function() {
-    loadGA()
+    // loadGA()
 });
