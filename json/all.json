@@ -70,7 +70,14 @@
         "title": "Death Chase",
         "slug": "death-chase",
         "img": "/assets/logo/death-chase.png",
-        "game": "https://bitlifeonline.github.io/class12523/death-chase/",
+        "game": "https://classroomjq.github.io/death-chase/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Death Chase 3",
+        "slug": "death-chase-3",
+        "img": "https://slope-game.github.io/death-chase-3/logo.png",
+        "game": "https://slope-game.github.io/death-chase-3/",
         "domain": 20,
         "date": 12523
     },{
@@ -161,7 +168,7 @@
         "title": "Lucky Life",
         "slug": "lucky-life",
         "img": "/assets/logo/lucky-life.png",
-        "game": "https://bitlifeonline.github.io/class12523/lucky-life/",
+        "game": "https://bitlifeonline.github.io/lucky-life/",
         "domain": 20,
         "date": 12523
     },{
@@ -231,7 +238,7 @@
         "title": "War of Sticks",
         "slug": "war-of-sticks",
         "img": "/assets/logo/war-of-sticks.png",
-        "game": "https://bitlifeonline.github.io/class12523/war-of-sicks/",
+        "game": "https://ubg77.github.io/war-of-sticks/",
         "domain": 20,
         "date": 12523
     },{

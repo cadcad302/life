@@ -3,3 +3,18 @@
     width: calc(25% - 45px);
     margin-right:45px;
 }
+.ads{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .label-ads {
+      /* margin-top: 2vh; */
+      padding-top: 8px;
+      padding-bottom: 8px;
+      
+      position: relative;
+      width: 100%;
+      font-size: calc(5px + 0.5vmax + 0.5vh);
+      letter-spacing: 1vw;
+      color: #fff;
+  }
