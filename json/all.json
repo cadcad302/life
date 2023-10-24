@@ -4,6 +4,20 @@
         "slug": "/",
         "img": "/class/logo.png"
     },{
+        "title": "Tomb Of The Mask",
+        "slug": "tomb",
+        "img": "https://slope-game.github.io/new5923/tomb/logo.png",
+        "game": "https://bitlifeonline.github.io/class12523/short-ride/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "yohoho io",
+        "slug": "yohoho-io",
+        "img": "/assets/logo/yohoho-io.png",
+        "game": "https://bitlifeonline.github.io/class12523/short-ride/",
+        "domain": 20,
+        "date": 12523
+    },{
         "title": "Short Ride",
         "slug": "short-ride",
         "img": "/assets/logo/short-ride.png",
@@ -99,6 +113,20 @@
         "slug": "dog-simulator-3d",
         "img": "/assets/logo/dog-simulator-3d.png",
         "game": "https://bitlifeonline.github.io/class12523/dog-simulator-3d/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Christmas Deer Simulator",
+        "slug": "christmas-deer-simulator",
+        "img": "https://bitlifeonline.github.io/christmas-deer-simulator/logo.png",
+        "game": "https://bitlifeonline.github.io/christmas-deer-simulator/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Parrot Simulator",
+        "slug": "parrot-simulator",
+        "img": "https://bitlifeonline.github.io/parrot-simulator/logo.png",
+        "game": "https://bitlifeonline.github.io/parrot-simulator/",
         "domain": 20,
         "date": 12523
     },{

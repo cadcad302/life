@@ -1,0 +1,58 @@
+,{
+        "title": "DogLife",
+        "slug": "dog-life",
+        "img": "https://play-lh.googleusercontent.com/7JYTz6ShspYb-D_LheeRBro4-mq-occV7yVvz-1Qx7XCng-xSdJehPqgsvAy9zX6ZeZ8=s200",
+        "game": "https://bitlifeonline.github.io/class12523/dreadhead-parkour/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Gacha Life",
+        "slug": "gacha-life",
+        "img": "https://play-lh.googleusercontent.com/Yma8Znj3IENI76qh6VC2cFgzoUwFdt4c2xXMYfK2VUaRZArjqsicFj4zCpUIZRwbdJ_b=s200",
+        "game": "https://bitlifeonline.github.io/class12523/dreadhead-parkour/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "CatLife",
+        "slug": "cat-life",
+        "img": "https://play-lh.googleusercontent.com/6J_WI4wulXvx2MuqIslxewaGRXs_ZuP-Z4kPVG--EHwqYJZTJoUnpAlJ8jVrNMn2FCY=s200",
+        "game": "https://bitlifeonline.github.io/class12523/dreadhead-parkour/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "STUMBLE GUYS",
+        "slug": "stumble-guys",
+        "img": "https://play-lh.googleusercontent.com/Oci7f4WR0JShbn-n5hnwubbXaMssleb2b1Dv7AMOzFFcgstIdC9kg-E3LHx3em8RCaLf=s200",
+        "game": "https://bitlifeonline.github.io/class12523/dreadhead-parkour/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "cuphead",
+        "slug": "cuphead",
+        "img": "https://bitlifeonline.github.io/cuphead/logo.png",
+        "game": "https://bitlifeonline.github.io/cuphead/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Splatoon 3",
+        "slug": "splatoon-3",
+        "img": "https://bitlifeonline.github.io/splatoon-3/logo.png",
+        "game": "https://bitlifeonline.github.io/splatoon-3/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Slime Rancher 2",
+        "slug": "slime-hunter",
+        "img": "https://bitlifeonline.github.io/slime-hunter/logo.png",
+        "game": "https://bitlifeonline.github.io/slime-hunter/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Capybara Clicker",
+        "slug": "capybara-clicker",
+        "img": "https://bitlifeonline.github.io/capybara-clicker/logo.png",
+        "game": "https://bitlifeonline.github.io/capybara-clicker/",
+        "domain": 20,
+        "date": 12523
+    }

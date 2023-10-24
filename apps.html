@@ -13,9 +13,9 @@
     <link rel="stylesheet" href="/assets/css/style.css?v=1">
     <link rel="stylesheet" href="/assets/css/dark-theme.css">
     <link rel="stylesheet" href="/assets/css/responsive.css">
-    <title>Death Chase 3</title>
-    <meta name="robots" content="noindex,nofollow" />
+    <title>Apps</title>
     <link rel="icon" type="image/png" href="/assets/icon.png">
+    <meta name="robots" content="noindex,nofollow" />
     
   </head>
   <body>
@@ -24,12 +24,12 @@
       <div></div>
       <div></div>
     </div>
-    <!-- <div class="switch-theme-mode">
+    <div class="switch-theme-mode">
       <label id="switch" class="switch">
         <input type="checkbox" onchange="toggleTheme()" id="slider">
         <span class="slider round"></span>
       </label>
-    </div> -->
+    </div>
     <div class="page-wrapper">
       <header class="header-wrap style2">
         <div class="container">
@@ -54,7 +54,7 @@
                 </li>
                 <li class="nav-item">
                   <a href="https://unblocked-games911.github.io/" class="nav-link"> 911 Sites </a>
-                </li>
+              </li>
          
               </ul>
             </div>
@@ -76,68 +76,11 @@
         </div>
       </div>
       <div class="content-wrapper">
-        
-        <section class="auction-details-wrap ptb-30">
-          <div class="ads">
-            <div class="label-ads">-ADVERTISEMENTS-</div>
-            <div class="detail-ads">
-              <script type="text/javascript">
-                atOptions = {
-                  'key' : '4288b4dc8140ac9aca7203b2759dc75b',
-                  'format' : 'iframe',
-                  'height' : 90,
-                  'width' : 728,
-                  'params' : {}
-                };
-                document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/4288b4dc8140ac9aca7203b2759dc75b/invoke.js"></scr' + 'ipt>');
-              </script>
-            </div>
-            <div class="label-ads">-ADVERTISEMENTS-</div>
-          </div>
-          <div id="game-container">
-            <iframe src="https://slope-game.github.io/death-chase-3/" id="gameframe" frameborder="0" style="width: 100%;height:85vh"></iframe>
-          </div>
-          <div class="ads">
-            <div class="label-ads">-ADVERTISEMENTS-</div>
-            <div class="detail-ads">
-              <script type="text/javascript">
-                atOptions = {
-                  'key' : 'ed76967f2a377e250a324f868ba3b2c2',
-                  'format' : 'iframe',
-                  'height' : 250,
-                  'width' : 300,
-                  'params' : {}
-                };
-                document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/ed76967f2a377e250a324f868ba3b2c2/invoke.js"></scr' + 'ipt>');
-              </script>
-            </div>
-            <div class="label-ads">-ADVERTISEMENTS-</div>
-          </div>
-          <div class="container pb-100">
-            <div class="single-auction-tab">
-              <ul class="nav nav-tabs auction-tablist" role="tablist">
-                <li class="nav-item">
-                  <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tab_1" type="button" role="tab">Description</button>
-                </li>
-  
-              </ul>
-              <div class="tab-content">
-                <div class="tab-pane fade show active" id="tab_1" role="tabpanel">
-                  <div class="auction-item-desc">
-                      <p>
-                        There is a second attempt to escape death, but no one actually perishes. More insane levels, more insane cars. Are you able to win every race? You may find our guide on YouTube!</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-        </section>
+
         <section class="popular-wrap pb-75">
           <div class="container">
-            
             <div class="section-title text-center mb-40">
-              <h2>All Games</h2>
+              <h2>Apps</h2>
             </div>
             <div class="popular-slider-1 auction-item-wrap">
             </div>
@@ -240,22 +183,10 @@
       }
       // popular-slider-1
       
-      function loadGA(){
-    
-    var  r = document.createElement("script");
-  r.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id=G-VDZ4RQ4RXR"), r.setAttribute("type", "text/javascript"), r.setAttribute("crossOrigin", "anonymous"),  r.onload = function (){
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', 'G-VDZ4RQ4RXR');
-  
-    },document.head.appendChild(r);
-    
-}
     $( document ).ready(function() {
-      loadGA();
-      fetch("/json/all.json",{
+        const d = new Date();
+        let time = d.getTime();
+      fetch(`/json/game.json?v=${time}`,{
             headers: {
                 'Content-Type': 'application/json',
                 },
@@ -276,7 +207,7 @@
                 html += `<div class="auction-card style9">
                 <div class="auction-img">
                   <img src="${item.img}" alt="${item.title}">
-                  <button type="button" class="btn style1" onclick="location.href='${slug}'">Play</button>
+                  <button type="button" class="btn style1" onclick="downloadFile('${item.slug}')">Download</button>
                 </div>
                 <div class="auction-info-wrap">
                   <div class="auction-title">
@@ -291,6 +222,9 @@
           
         })
     });
+    function downloadFile(slug){
+        window.location = `https://bitlife.slopecalculator.org/file/${slug}`;
+    }
     </script>
   </body>
 </html>
