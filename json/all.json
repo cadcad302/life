@@ -4,6 +4,13 @@
         "slug": "/",
         "img": "/class/logo.png"
     },{
+        "title": "Retro Bowl College",
+        "slug": "retro-bowl-college",
+        "img": "https://classroomjq.github.io/retro-bowl-college/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
         "title": "Tomb Of The Mask",
         "slug": "tomb",
         "img": "https://slope-game.github.io/new5923/tomb/logo.png",
