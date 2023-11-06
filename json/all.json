@@ -11,6 +11,83 @@
         "domain": 20,
         "date": 12523
     },{
+        "title": "Vex 8",
+        "slug": "vex-8",
+        "img": "https://classroomjq.github.io/vex-8/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Funny Shooter 2",
+        "slug": "funny-shooter-2",
+        "img": "https://classroomjq.github.io/funny-shooter-2/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Pixel Shooter",
+        "slug": "pixel-shooter",
+        "img": "https://ubg77.github.io/pixel-shooter/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Slime Road",
+        "slug": "slime-road",
+        "img": "https://classroomjq.github.io/slime-road/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Jelly Car",
+        "slug": "jellycar-worlds",
+        "img": "https://webglmath.github.io/jellycar-worlds/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Run 3",
+        "slug": "run-3",
+        "img": "https://bitlifeonline.github.io/run-3/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "War Call",
+        "slug": "war-call",
+        "img": "https://classroomjq.github.io/wrc/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Evo War",
+        "slug": "evo",
+        "img": "https://classroomjq.github.io/evw/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Hole Io",
+        "slug": "hole-io",
+        "img": "https://classroomjq.github.io/holeio/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Capybara clicker",
+        "slug": "capybara",
+        "img": "https://bitlifeonline.github.io/capybara-clicker/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
+        "title": "Geomtry Dash",
+        "slug": "geometry-dash-bloodbath",
+        "img": "https://bitlifeonline.github.io/geometry-dash-bloodbath/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },{
         "title": "Tomb Of The Mask",
         "slug": "tomb",
         "img": "https://slope-game.github.io/new5923/tomb/logo.png",
