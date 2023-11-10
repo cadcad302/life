@@ -54,11 +54,8 @@
                     <a href="/list.html" class="nav-link"> List </a>
                 </li>
                 <li class="nav-item">
-                  <a href="/privacy.html" class="nav-link"> Privacy Policy </a>
-              </li>
-                <li class="nav-item">
-                  <a href="https://unblocked-games911.github.io/" class="nav-link"> 911 Sites </a>
-              </li>
+                  <a href="/category/android.html" class="nav-link"> Android Game </a>
+                </li>
          
               </ul>
             </div>
@@ -180,6 +177,29 @@
             </div>
           </div>
         </div>
+        <section class="popular-wrap pb-75">
+          <div class="container">
+            <div class="section-title text-center mb-40">
+              <h2>New Category</h2>
+            </div>
+            <div class="popular-slider-1 auction-item-wrap">
+              <div class="auction-card style9">
+                <div class="auction-img">
+                  <img src="/assets/logo/nowgg.png" alt="Now GG">
+                  <button type="button" class="btn style1" onclick="location.href='/category/android.html'">Play</button>
+                </div>
+                <div class="auction-info-wrap">
+                  <div class="auction-title">
+                    <h3>
+                      <a href="/category/android.html">NowGG Game</a>
+                    </h3>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </section>
         <section class="popular-wrap pb-75" id="gamenew">
           <div class="container">
             <div class="section-title text-center mb-40">
@@ -322,7 +342,7 @@
                 </div>
               </div>`;
           }
-          document.querySelector('.popular-slider-1').innerHTML = html;
+          document.querySelector('#gamenew .popular-slider-1').innerHTML = html;
           
         })
     });

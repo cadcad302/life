@@ -13,7 +13,9 @@
     <link rel="stylesheet" href="/assets/css/style.css?v=1">
     <link rel="stylesheet" href="/assets/css/dark-theme.css">
     <link rel="stylesheet" href="/assets/css/responsive.css">
-    <title>capybara clicker</title>
+    <link rel="stylesheet" href="/assets/css/preload.css">
+    <link rel="stylesheet" href="/assets/css/btnsurvey.css">
+    <title>My Talking Angela</title>
     <meta name="robots" content="noindex,nofollow" />
     <link rel="icon" type="image/png" href="/assets/icon.png">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2485663923316878"
@@ -83,20 +85,45 @@
             <div class="label-ads">-ADVERTISEMENTS-</div>
             <div class="detail-ads">
               <script type="text/javascript">
-                atOptions = {
-                  'key' : '4288b4dc8140ac9aca7203b2759dc75b',
-                  'format' : 'iframe',
-                  'height' : 90,
-                  'width' : 728,
-                  'params' : {}
-                };
-                document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/4288b4dc8140ac9aca7203b2759dc75b/invoke.js"></scr' + 'ipt>');
+                if(document.URL.indexOf("localhost") !== -1 &&  document.URL.indexOf("127.0.0.1") !== -1){
+                    atOptions = {
+                    'key' : '4288b4dc8140ac9aca7203b2759dc75b',
+                    'format' : 'iframe',
+                    'height' : 90,
+                    'width' : 728,
+                    'params' : {}
+                    };
+                    document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/4288b4dc8140ac9aca7203b2759dc75b/invoke.js"></scr' + 'ipt>');
+                }
               </script>
             </div>
             <div class="label-ads">-ADVERTISEMENTS-</div>
           </div>
           <div id="game-container">
-            <iframe src="https://bitlifeonline.github.io/capybara-clicker/" id="gameframe" frameborder="0" style="width: 100%;height:85vh"></iframe>
+            <!-- <iframe src="#" id="gameframe" frameborder="0" style="width: 100%;height:85vh"></iframe> -->
+            <div style="background-color: rgb(48, 48, 48);height: 100%;">
+                <div class="talpa-splash-container">
+                  <div class="talpa-splash-top">
+                    <div>
+                      <div style="--thumb:url(https://cdn.now.gg/apps-content/com.outfit7.mytalkingangelafree/icon/my-talking-angela.png);width: 80px;height: 80px;"></div>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://acb.supertunnelrush.com/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 1 (.com)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.caculatorgeo.online/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 2 (.online)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.caculatorgeo.info/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 3 (.info)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.caculatorgeo.one/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 4 (.one)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.caculatorgeo.monster/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 5 (.monster)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.caculatorgeo.world/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 6 (.world)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.caculatorgeo.xyz/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 7 (.xyz)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.caculatorgeo.fun/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 8 (.fun)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.classroom.college/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 9 (.college)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.rogas.site/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 10 (.site)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.mokey.pro/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 11 (.pro)</button>
+                      <button id="talpa-splash-button" class="BG-splash-button" data-url="https://bitlife.basketballrandom.net/play/outfit7-limited/1618/my-talking-angela" onclick="playGame1(this)" style="display: block;">Server 12 (.net)</button>
+                      <div class="talpa-loader" style="display: none;">Loading...</div>
+                    </div>
+                  </div>
+
+                </div>
+            </div>
           </div>
           <div class="ads">
             <div class="label-ads">-ADVERTISEMENTS-</div>
@@ -206,6 +233,8 @@
     <a href="javascript:void(0)" class="back-to-top bounce">
       <i class="ri-arrow-up-s-line"></i>
     </a>
+    <div class="popup-survey"><span class="close-popup" onclick="closePopup()">X</span><iframe class="frameSurvey" src="https://docs.google.com/forms/d/e/1FAIpQLSdX08fMeOHicAXfWRPhQrbgMtp5sezBzJi2ONF-ZIIGG4oC9Q/viewform?embedded=true">Loading…</iframe></div>
+    <div class="survey gift" onclick="showPopup()"><span class="icon-quest icon-gift">❓</span><span class="text-survey" onclick="showPopup()">What game do you like to play? Blocked?</span></div>
     <script src="/assets/js/jquery.min.js"></script>
     <script src="/assets/js/bootstrap.bundle.min.js"></script>
     <script src="/assets/js/form-validator.min.js"></script>
@@ -218,29 +247,30 @@
     <script src="/assets/js/mixitup.min.js"></script>
     <script src="/assets/js/jquery.appear.js"></script>
     <script src="/assets/js/tweenmax.min.js"></script>
-    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/main.js?v=1"></script>
     <script>
-      function playGame(){
-        document.querySelector('#game-container').innerHTML = `<iframe src="https://bitlifeonline.github.io/class/index.html" id="gameframe" frameborder="0" style="width: 100%;height:85vh"></iframe>`;
-      }
+      function playGame1(e){
+  document.querySelector("#game-container").innerHTML = `<iframe allowfullscreen="true" src="${e.dataset.url}" id="gameframe" frameborder="0" style="height: 85vh;width: 100%;"></iframe>`;
+}
       // popular-slider-1
       
       function loadGA(){
-    
-    var  r = document.createElement("script");
-  r.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id=G-VDZ4RQ4RXR"), r.setAttribute("type", "text/javascript"), r.setAttribute("crossOrigin", "anonymous"),  r.onload = function (){
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', 'G-VDZ4RQ4RXR');
-  
-    },document.head.appendChild(r);
-    
-}
+        if(document.URL.indexOf("localhost") !== -1 && document.URL.indexOf("127.0.0.1") !== -1){
+        var  r = document.createElement("script");
+        r.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id=G-VDZ4RQ4RXR"), r.setAttribute("type", "text/javascript"), r.setAttribute("crossOrigin", "anonymous"),  r.onload = function (){
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+        
+            gtag('config', 'G-VDZ4RQ4RXR');
+        
+            },document.head.appendChild(r);
+            
+        }
+      }
     $( document ).ready(function() {
       loadGA();
-      fetch("/json/all.json",{
+      fetch("/json/android.json",{
             headers: {
                 'Content-Type': 'application/json',
                 },

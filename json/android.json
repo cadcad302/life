@@ -1,0 +1,47 @@
+[
+    {
+        "title": "My Talking Tom Online",
+        "slug": "my-talking-tom",
+        "img": "https://cdn.now.gg/apps-content/com.outfit7.mytalkingtomfree/icon/my-talking-tom.png"
+    },
+    {
+        "title": "My Talking Tom 2",
+        "slug": "my-talking-tom-2",
+        "img": "https://cdn.now.gg/apps-content/com.outfit7.mytalkingtom2/icon/my-talking-tom-2.png"
+    },
+    {
+        "title": "My Talking Angela",
+        "slug": "my-talking-angela",
+        "img": "https://cdn.now.gg/apps-content/com.outfit7.mytalkingangelafree/icon/my-talking-angela.png"
+    },
+    {
+        "title": "My Talking Angela 2",
+        "slug": "my-talking-angela-2",
+        "img": "https://cdn.now.gg/apps-content/com.outfit7.mytalkingangela2/icon/my-talking-angela-2.png"
+    },
+    {
+        "title": "My Talking Hank",
+        "slug": "my-talking-hank",
+        "img": "https://cdn.now.gg/apps-content/com.outfit7.mytalkinghank/icon/my-talking-hank.png"
+    },
+    {
+        "title": "My Talking Tom Friends",
+        "slug": "my-talking-tom-friends",
+        "img": "https://cdn.now.gg/apps-content/com.outfit7.mytalkingtomfriends/icon/my-talking-tom-friends.png"
+    },
+    {
+        "title": "Gacha Life",
+        "slug": "gacha-life",
+        "img": "https://cdn.now.gg/apps-content/air.com.lunime.gachalife/icon/gacha-life.png"
+    },
+    {
+        "title": "Gacha Life 2",
+        "slug": "gacha-life-2",
+        "img": "https://cdn.now.gg/apps-content/air.com.lunime.gachalife2/icon/gacha-life-2.png"
+    },
+    {
+        "title": "Bloons Td Battles",
+        "slug": "bloons-td-battles",
+        "img": "https://cdn.now.gg/apps-content/com.ninjakiwi.bloonstdbattles/icon/bloons-td-battles.png"
+    }
+]

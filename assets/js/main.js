@@ -461,3 +461,9 @@ function loadGA(){
 window.addEventListener('load', function() {
     // loadGA()
 });
+function showPopup(){
+    document.querySelector('.popup-survey').style.display = "block";
+}
+function closePopup(){
+    document.querySelector('.popup-survey').style.display = "none";
+}
